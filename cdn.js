@@ -1,6 +1,6 @@
 document.write(`
 <div class="ad">
-    <h2 class="ad-ti">&#x4e13;&#x5c5e;&#x8001;&#x53f8;&#x673a;&#x4eec;&#x7684;&#x798f;&#x5229;&#x7f51;&#x7ad9;</h2>
+    <h2 class="ad-ti">&#x5b85;&#x7537;&#x8001;&#x53f8;&#x673a;&#x4eec;&#x7684;&#x0020;&#x7279;&#x6b8a;&#x798f;&#x5229;&#x7f51;</h2>
     <li><a class="myButton" href="https://dao2.500640.xyz" rel="nofollow" target="_blank">❖点击此处打开一❖</a></li>
     </br>
     <li><a class="myButton" href="https://dao2.500640.xyz" rel="nofollow" target="_blank">❖点击此处打开二❖</a></li>
